@@ -15,4 +15,4 @@ The unit tests are defined in `test.py`.
  1. Clone the repo to your local machine.
  2. Navigate to the repo folder.
  3. Ensure python is installed.
- 4. Run `python test.py` from the terminal.
+ 4. Run `python3 test.py` from the terminal.
